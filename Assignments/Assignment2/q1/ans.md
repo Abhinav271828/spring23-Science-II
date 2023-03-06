@@ -1,0 +1,1 @@
+(b) It appears that the method generates numbers fairly randomly (intuitively speaking), because the scatterplot is distributed all over the region more or less regularly, so it means that $I_{j+1}$ is independent of $I_j$.
